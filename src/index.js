@@ -1,6 +1,6 @@
 // alert("Hello from Webpack!!!");
 import { run } from "./app/app";
-import "./main.css";
+import "./main.scss";
 import { AService } from "./app/a.service";
 import { BService } from "./app/b.service";
 const aService = new AService();
